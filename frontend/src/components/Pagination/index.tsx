@@ -23,5 +23,4 @@ function Pagination({ page, onChange } : Props) {
         </div>
     )
 }
-
 export default Pagination;

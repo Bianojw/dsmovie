@@ -15,5 +15,4 @@ function MovieScore({ score, count } : Props) {
         </div>
     )
 }
-
 export default MovieScore
